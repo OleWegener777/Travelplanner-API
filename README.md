@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 
 3. Build and start the Docker containers:
     ```bash
-    docker-compose up --build
+    docker compose up --build
     ```
 
 4. Once the containers are up, you can access the API at:
